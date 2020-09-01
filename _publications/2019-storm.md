@@ -10,7 +10,7 @@ paperurl: '/files/2019-storm.pdf'
 authors: Stanko Novakovic, Yizhou Shan, Aasheesh Kolli, Michael Cui, Yiying Zhang, Haggai Eran, Boris Pismenny, Liran Liss, Michael Wei, Dan Tsafrir, Marcos Aguilera 
 notes: Awarded best paper.
 best: 1
-abstract: 1
+#abstract: 1
 ---
 
 RDMA is an exciting technology that enables a host to access the memory of a
