@@ -2,12 +2,14 @@
 title: "IOctopus: Outsmarting Nonuniform DMA"
 collection: publications
 permalink: /publications/2020-ioctopus
-excerpt: awarded Best paper
+excerpt: ''
 date: 2020-03-18
 venue: "ASPLOS '20: ACM International Conference on Architectural Support for Languages and Operating Systems"
 paperurl: 'files/2020-ioctopus.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: Igor Smolyar, Alex Markuze, Boris Pismenny, Haggai Eran, Gerd Zellweger, Austin Bolen, Liran Liss, Adam Morrison, Dan Tsafrir
+best: 1
+abstract: 1
 ---
 
 In a multi-CPU server, memory modules are local to the CPU to which they are
