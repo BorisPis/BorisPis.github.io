@@ -67,11 +67,11 @@
     {% endif %}
 
     {% if post.abstract %}
-      <p><a href="{{ post.permalink }}">Abstract</a></p>
+      <p><a href="{{ base_path }}{{ post.permalink }}">Abstract</a></p>
     {% endif %}
 
     {% if post.slides %}
-      <p><a href="{{ post.slides }}">Slides</a></p>
+      <p><a href="{{ base_path }}{{ post.slides }}">Slides</a></p>
     {% endif %}
 
   </article>
