@@ -5,7 +5,7 @@ permalink: /talks/2018-udp-segmentation-offload
 excerpt: ''
 date: 2018-07-13
 venue: "netdev 0x12, Proceedings of NetDev 0x12: The Technical Conference on Linux Networking"
-paperurl: 'https://netdevconf.info/0x12/session.html?udp-segmentation-offload'
+link: 'https://netdevconf.info/0x12/session.html?udp-segmentation-offload'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: Boris Pismenny, Yossi Kupperman
 ---
@@ -19,3 +19,5 @@ offload with existing devices.  The limitations we have encountered. How we
 overcome these limitations. Finally, we suggest potential improvements to the
 Linux networking stack to generalize our work and make driver development
 easier.
+
+[talk](https://netdevconf.info/0x12/session.html?udp-segmentation-offload)
