@@ -1,7 +1,7 @@
 ---
 title: "Storm: a fast transactional dataplane for remote data structures"
 collection: publications
-#permalink: /publications/2019-storm
+permalink: /publications/2019-storm
 excerpt: awarded Best paper
 date: 2019-6-4
 venue: "SYSTOR '19, Proceedings of the 12th ACM International Conference on Systems and Storage"
