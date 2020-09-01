@@ -21,5 +21,3 @@ offload with existing devices.  The limitations we have encountered. How we
 overcome these limitations. Finally, we suggest potential improvements to the
 Linux networking stack to generalize our work and make driver development
 easier.
-
-[talk](https://netdevconf.info/0x12/session.html?udp-segmentation-offload)

@@ -17,5 +17,3 @@ as reordering and packet loss. Our goal is to assist the kernel with offloading
 the compute-intensive cypto tasks while leaving TCP processing unmodified. We
 present a design and implementation of a solution that addresses these
 problems. We evaluate the performance of TLS offload from several aspects.
-
-[talk](https://netdevconf.info/2.2/session.html?pismenny-tlscrypto-talk)

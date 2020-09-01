@@ -27,5 +27,3 @@ on the fly by the device. We will describe the roles and requirements of the
 kTLS module, specify the device offload APIs, and detail the TLS processing
 flows. Finally, we will demonstrate the potential performance benefits of
 network device TLS offloads.
-
-[talk](https://netdevconf.info/1.2/session.html?boris-pismenny)
