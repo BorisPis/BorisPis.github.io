@@ -1,7 +1,7 @@
 ---
 title: "TLS Receive Side Crypto Offload"
-collection: publications
-permalink: /publications/2017-tls-rx-offload
+collection: talks
+permalink: /talks/2017-tls-rx-offload
 excerpt: ''
 date: 2017-11-08
 venue: "netdev 2.2, Proceedings of NetDev 2.2: The Technical Conference on Linux Networking"

@@ -1,7 +1,7 @@
 ---
 title: "UDP segmentation offload"
-collection: publications
-permalink: /publications/2018-udp-segmentation-offload
+collection: talks
+permalink: /talks/2018-udp-segmentation-offload
 excerpt: ''
 date: 2018-07-13
 venue: "netdev 0x12, Proceedings of NetDev 0x12: The Technical Conference on Linux Networking"

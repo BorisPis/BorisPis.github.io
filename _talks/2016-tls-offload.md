@@ -1,8 +1,7 @@
 ---
 title: "TLS Offload to Network Devices"
-collection: publications
-permalink: /publications/2016-tls-offload
-excerpt: ''
+collection: talks
+permalink: /talks/2016-tls-offload
 date: 2016-10-05
 venue: "netdev 1.2, Proceedings of NetDev 1.2: The Technical Conference on Linux Networking"
 paperurl: 'https://netdevconf.org/1.2/papers/netdevconf-TLS.pdf'

@@ -1,8 +1,8 @@
 ---
-title: "rte\_security: The Case of IPsec Offload"
-collection: publications
-permalink: /publications/2017-rte-security
-excerpt: ''
+title: "rte_security: The Case of IPsec Offload"
+collection: talks
+type: "Talk"
+permalink: /talks/2017-rte-security
 date: 2017-09-26
 venue: "DPDK Summit Userspace 2017"
 paperurl: 'https://www.dpdk.org/wp-content/uploads/sites/35/2017/09/DPDK-Userspace2017-Day1-9-security-presentation.pdf'
