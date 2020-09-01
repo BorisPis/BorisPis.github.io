@@ -63,17 +63,19 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
 
+    <p>
     {% if post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Paper</a></p>
+      <a href=" {{ post.paperurl }} ">Paper</a>
     {% endif %}
 
     {% if post.abstract %}
-      <p><a href="{{ post.permalink }}">Abstract</a></p>
+      <a href="{{ post.permalink }}">Abstract</a>
     {% endif %}
 
     {% if post.slides %}
-      <p><a href="{{ post.slides }}">Slides</a></p>
+      <a href="{{ post.slides }}">Slides</a>
     {% endif %}
+    </p> <!-- of links -->
 
   </article>
 </div>
