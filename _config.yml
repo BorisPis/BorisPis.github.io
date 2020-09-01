@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Boris Pismenny"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD student @ Technion CS & software architect @ NVIDIA, working on acceelrating network applications"
   location         : "Haifa, Israel"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1UzcHtYAAAAJ"
   email            : "borispismenny@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
