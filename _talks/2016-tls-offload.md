@@ -1,10 +1,11 @@
 ---
 title: "TLS Offload to Network Devices"
 collection: talks
+type: "Talk"
 permalink: /talks/2016-tls-offload
 date: 2016-10-05
 venue: "netdev 1.2, Proceedings of NetDev 1.2: The Technical Conference on Linux Networking"
-paperurl: 'https://netdevconf.org/1.2/papers/netdevconf-TLS.pdf'
+link: 'https://netdevconf.org/1.2/papers/netdevconf-TLS.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: Boris Pismenny, Ilya Lesokhin, Liran Liss, Haggai Eran
 ---
@@ -29,3 +30,5 @@ off to the stack. We will describe the roles and requirements of
 the kTLS module, specify the device offload APIs, and detail the
 TLS processing flows. Finally, we will demonstrate the potential
 performance benefits of network device TLS offloads.
+
+[talk](https://netdevconf.org/1.2/papers/netdevconf-TLS.pdf)
