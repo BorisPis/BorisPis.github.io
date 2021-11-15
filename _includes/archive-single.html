@@ -45,7 +45,12 @@
             {% assign author_name_emph = site.author.name | prepend: '<i>' | append: '</i>' %}
             <p>{{ post.authors | replace_first: site.author.name, author_name_emph }}</p>
 	  {% endif %}
-          <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+
+	  {% if post.venue %}
+	    <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+	  {% elsif post.prevenue %}
+	    <p><i>{{ post.prevenue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+	  {% endif %}
 	  {% if post.best %}
             <span style="background-color:#F7BDDE">Best paper award</span>
 	  {% endif %}
