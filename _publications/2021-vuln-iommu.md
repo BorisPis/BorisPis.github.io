@@ -5,7 +5,9 @@ permalink: /publications/2021-iommu-vuln
 excerpt: ''
 date: 2021-04-26
 venue: "EuroSys '21: European Conference on Computer Systems"
-#paperurl: '/files/2021-iommu-vuln.pdf'
+paperurl: '/files/2021-vuln-iommu.pdf'
+defpaperurl: https://dl.acm.org/doi/10.1145/3447786.3456249
+video: https://www.youtube.com/watch?v=W9rGWzDKGKk
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: Alex Markuze, Shay Vargaftik, Gil Kupfer, Boris Pismenny, Nadav Amit, Adam Morrison, and Dan Tsafrir
 #best: 1

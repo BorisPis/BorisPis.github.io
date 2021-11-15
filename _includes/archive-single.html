@@ -73,19 +73,27 @@
 
     <p>
     {% if post.paperurl %}
-      <a href=" {{ post.paperurl }} ">Paper</a>
+      [<a href=" {{ post.paperurl }} ">paper</a>]
+    {% endif %}
+
+    {% if post.defpaperurl %}
+      [<a href=" {{ post.defpaperurl }} ">definitive</a>]
     {% endif %}
 
     {% if post.abstract %}
-      <a href="{{ post.permalink }}">Abstract</a>
+      [<a href="{{ post.permalink }}">abstract</a>]
     {% endif %}
 
     {% if post.slides %}
-      <a href="{{ post.slides }}">Slides</a>
+      [<a href="{{ post.slides }}">slides</a>]
     {% endif %}
 
     {% if post.video %}
-      <a href="{{ post.video }}">Video</a>
+      [<a href="{{ post.video }}">video</a>]
+    {% endif %}
+
+    {% if post.website %}
+      [<a href="{{ post.website }}">website</a>]
     {% endif %}
     </p> <!-- of links -->
 

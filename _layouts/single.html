@@ -53,7 +53,15 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% elsif page.paperurl %}
-	  <p>[<a href="{{ page.paperurl }}">paper</a>]</p>
+	  [<a href="{{ page.paperurl }}">paper</a>]
+        {% endif %}
+
+        {% if page.defpaperurl %}
+	  [<a href=" {{ page.defpaperurl }} ">definitive</a>]
+	{% endif %}
+
+        {% if page.video %}
+	  [<a href="{{ post.video }}">video</a>]
         {% endif %}
     
         </header>

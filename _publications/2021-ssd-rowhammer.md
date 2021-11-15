@@ -5,8 +5,9 @@ permalink: /publications/2021-ssd-rowhammer
 excerpt: ''
 date: 2021-07-30
 venue: "HotStorage '21: ACM Workshop on Hot Topics In Storage and File Systems"
+paperurl: '/files/2021-ssdhammer.pdf'
 video: 'https://youtu.be/-fJo5fDH0Ik?t=5696'
-#paperurl: '/files/2021-ssd-rowhammer.pdf'
+defpaperurl: 'https://dl.acm.org/doi/10.1145/3465332.3470871'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: Tao Zhang, Boris Pismenny, Donald E. Porter, Dan Tsafrir, and Aviad Zuck
 #best: 1
