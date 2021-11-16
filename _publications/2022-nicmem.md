@@ -1,7 +1,7 @@
 ---
 title: "The Benefits of General-Purpose On-NIC Memory"
 collection: publications
-permalink: /publications/2021-nicmem
+permalink: /publications/2022-nicmem
 excerpt: ''
 date: 2022-02-28
 prevenue: "ASPLOS '22: ACM International Conference on Architectural Support for Languages and Operating Systems"
