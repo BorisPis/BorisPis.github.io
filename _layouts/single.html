@@ -63,6 +63,14 @@ layout: default
         {% if page.video %}
 	  [<a href="{{ post.video }}">video</a>]
         {% endif %}
+
+        {% if page.slides %}
+	  [<a href=" {{ page.slides }} ">slides</a>]
+	{% endif %}
+
+        {% if page.poster %}
+	  [<a href=" {{ page.poster }} ">poster</a>]
+	{% endif %}
     
         </header>
       {% endunless %}
