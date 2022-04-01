@@ -8,6 +8,7 @@ prevenue: "ASPLOS '22: ACM International Conference on Architectural Support for
 paperurl: '/files/2022-nicmem.pdf'
 slides: '/files/2022-nicmem-slides.pdf'
 poster: '/files/2022-nicmem-poster.pdf'
+video: 'https://youtu.be/qot-gTh37MU'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: Boris Pismenny, Liran Liss, Adam Morrison, Dan Tsafrir
 #best: 1
