@@ -6,6 +6,7 @@ excerpt: ''
 date: 2022-02-28
 prevenue: "ASPLOS '22: ACM International Conference on Architectural Support for Languages and Operating Systems"
 paperurl: '/files/2022-nicmem.pdf'
+defpaperurl: https://dl.acm.org/doi/10.1145/3503222.3507711
 slides: '/files/2022-nicmem-slides.pdf'
 poster: '/files/2022-nicmem-poster.pdf'
 video: 'https://youtu.be/qot-gTh37MU'
