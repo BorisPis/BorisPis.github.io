@@ -7,7 +7,7 @@ excerpt: ''
 date: 2021-07-20
 venue: "netdev 0x15, Proceedings of NetDev 0x15: The Technical Conference on Linux Networking"
 location: "Virtual"
-link: 'https://netdevconf.info/0x15/session.html?Autonomous-NVMe-TCP-offload'
+extlink: 'https://netdevconf.info/0x15/session.html?Autonomous-NVMe-TCP-offload'
 slides: '/files/2021-netdev_0x15_nvme-tcp.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: Boris Pismenny, Yoray Zack, Ben Ben-Ishay, and Or Gerlitz

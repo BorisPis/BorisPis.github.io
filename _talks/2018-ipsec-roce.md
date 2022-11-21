@@ -7,7 +7,7 @@ excerpt: ''
 date: 2018-03-26
 venue: "IPsec workshop"
 location: "Prague, Czech Republic"
-link: 'https://linux-ipsec.org/wp-content/uploads/slides/2018/RoCE-BP.pdf'
+extlink: 'https://linux-ipsec.org/wp-content/uploads/slides/2018/RoCE-BP.pdf'
 authors: Boris Pismenny
 ---
 

@@ -7,7 +7,7 @@ excerpt: ''
 date: 2018-03-26
 venue: "IPsec workshop"
 location: "Prague, Czech Republic"
-link: 'https://workshop.linux-ipsec.org/2018/slides/IPsec-Workshop-Unaware.pdf'
+extlink: 'https://workshop.linux-ipsec.org/2018/slides/IPsec-Workshop-Unaware.pdf'
 authors: Boris Pismenny
 ---
 

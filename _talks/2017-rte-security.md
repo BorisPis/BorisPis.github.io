@@ -7,7 +7,7 @@ permalink: /talks/2017-rte-security
 date: 2017-09-26
 venue: "DPDK Summit Userspace 2017"
 location: "Dublin, Ireland"
-link: 'https://www.dpdk.org/wp-content/uploads/sites/35/2017/09/DPDK-Userspace2017-Day1-9-security-presentation.pdf'
+extlink: 'https://www.dpdk.org/wp-content/uploads/sites/35/2017/09/DPDK-Userspace2017-Day1-9-security-presentation.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 authors: Boris Pismenny, Declan Doherty, Hemant Agrawal
 ---
