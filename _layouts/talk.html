@@ -40,6 +40,18 @@ layout: default
         </header>
       {% endunless %}
 
+        {% if page.extlink %}
+	  [<a href=" {{ page.extlink }} ">event</a>]
+	{% endif %}
+
+        {% if page.video %}
+	  [<a href="{{ page.video }}">video</a>]
+        {% endif %}
+
+        {% if page.slides %}
+	  [<a href=" {{ page.slides }} ">slides</a>]
+	{% endif %}
+
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
