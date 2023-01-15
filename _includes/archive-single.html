@@ -57,6 +57,9 @@
 	  {% if post.distinguished %}
             <span style="background-color:#F7BDDE">Distinguished paper award</span>
 	  {% endif %}
+	  {% if post.prize-name %}
+	    <span style="background-color:#F7BDDE">{{ post.prize-name }}</span>
+	  {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -98,6 +101,9 @@
 
     {% if post.website %}
       [<a href="{{ post.website }}">website</a>]
+    {% endif %}
+    {% if post.prize-url %}
+    [<a href="{{ post.prize-url }}">{{post.prize-url-name}}</a>]
     {% endif %}
     </p> <!-- of links -->
 
