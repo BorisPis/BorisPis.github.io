@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Technion computer science department in Haifa,
-Israel, advised by [Adam Morrison](https://www.cs.tau.ac.il/~mad/) and [Dan
-Tsafrir](http://www.cs.technion.ac.il/~dan/). Starting January 2023, I'm
-visiting EPFL as a PhD student with [Ed
-Bugnion](https://people.epfl.ch/edouard.bugnion).  I am broadly interested in
-software systems, networking, and architecture. My current research is focused
-on improving performance via new interfaces between Network Interface
-Controller (NIC) hardware and host software. I also work at NVIDIA as a
-software architect.
+I'm a postdoc at EPFL hosted by
+[Ed Bugnion](https://people.epfl.ch/edouard.bugnion)
+and a software architect at NVIDIA.
+I am broadly interested in systems, networking, architecture, and confidential computing.
