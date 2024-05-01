@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Boris Pismenny"
   avatar           : "profile.jpg"
-  bio              : "Postdoc @EPFL & software architect @NVIDIA, working on accelerating network applications"
+  bio              : "Postdoc @EPFL & software architect @NVIDIA networking"
   location         : "Lausanne, Switzerland"
   # location         : "Haifa, Israel"
   employer         : "NVIDIA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1UzcHtYAAAAJ"
-  email            : "borispi@cs.technion.ac.il"
+  email            : "xxboris@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
