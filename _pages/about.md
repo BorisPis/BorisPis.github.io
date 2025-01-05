@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoc at EPFL hosted by
-[Ed Bugnion](https://people.epfl.ch/edouard.bugnion)
-and a software architect at NVIDIA.
-I am broadly interested in systems, networking, architecture, and confidential computing.
+I'm a software architect at NVIDIA, focusing on accelerating applications through the use of NICs.
+I am interested in systems, networking, architecture, and confidential computing.
+Recently, I've worked on accelerating application computations layered over TCP
+and novel software/hardware interfaces to reduce NIC driver memory utilization.
