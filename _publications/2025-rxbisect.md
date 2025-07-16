@@ -7,7 +7,7 @@ date: 2025-07-07
 prevenue: "OSDI '25: USENIX Symposium on Operating Systems Design and Implementation"
 paperurl: '/files/2025-rxbisect.pdf'
 defpaperurl: https://www.usenix.org/conference/osdi25/presentation/pismenny
-#slides: '/files/2025-rxbisect-slides.pptx'
+slides: '/files/2025-rxbisect-slides.pptx'
 #poster: '/files/2025-rxbisect-poster.pdf'
 #video: 'https://youtu.be/qot-gTh37MU'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
@@ -18,7 +18,7 @@ authors: Boris Pismenny, Adam Morrison, Dan Tsafrir
 ---
 CPUs parallelize packet processing across cores via per-core
 receive (Rx) rings, which are typically sized to absorb bursts
-with ≥1Ki entries by default. The combined I/O working
+with >=1Ki entries by default. The combined I/O working
 set (packet buffers pointed to by all Rx rings) easily exceeds
 the LLC capacity, thus degrading performance due to high
 memory bandwidth pressure. Recent work has reduced the
